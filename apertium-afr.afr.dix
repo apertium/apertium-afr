@@ -667,7 +667,7 @@
 
     <pardef n="bier__n">
       <e>       <p><l/><r><s n="n"/><s n="sg"/></r></p></e>
-      <e>       <p><l>e</l><r><s n="n"/><s n="sg"/></r></p><par n="cmp-L"/></e>
+      <e>       <p><l></l><r><s n="n"/><s n="sg"/></r></p><par n="cmp-L"/></e>
       <e>       <p><l>e</l><r><s n="n"/><s n="pl"/></r></p><par n="cmp-R"/></e>
     </pardef>
 
@@ -1320,6 +1320,7 @@
 	<e lm="alles"><i>alles</i><par n="alles__prn"/></e>
 
     <e lm="daardie"><i>daardie</i><par n="dié__prn"/></e>
+    <e lm="dit"><i>dit</i><par n="dié__prn"/></e>
     <e lm="altwee"><i>altwee</i><par n="altwee__prn"/></e>
     <e lm="mekaar"><i>mekaar</i><par n="altwee__prn"/></e><!-- check! -->
 
@@ -2620,7 +2621,9 @@
     <e lm="vermenging"><i>vermenging</i><par n="artikel__n"/></e>
     <e lm="verdieping"><i>verdieping</i><par n="artikel__n"/></e>
     <e lm="verwarming"><i>verwarming</i><par n="artikel__n"/></e>
+    <e lm="aardverwarming"><i>aardverwarming</i><par n="artikel__n"/></e>
     <e lm="verligting"><i>verligting</i><par n="artikel__n"/></e>
+    <e lm="sterkte"><i>sterkte</i><par n="artikel__n"/></e>
     <e lm="verkryging"><i>verkryging</i><par n="artikel__n"/></e>
     <e lm="verhitting"><i>verhitting</i><par n="artikel__n"/></e>
     <e lm="versekering"><i>versekering</i><par n="artikel__n"/></e>
@@ -2710,6 +2713,7 @@
     <e lm="model"><i>model</i><par n="appèl__n"/></e> 
     <e lm="stel"><i>stel</i><par n="appèl__n"/></e> 
     <e lm="aanval"><i>aanval</i><par n="appèl__n"/></e> 
+    <e lm="val"><i>val</i><par n="appèl__n"/></e>  <!-- FIXME -->
     <e lm="getal"><i>getal</i><par n="appèl__n"/></e> 
     <e lm="afval"><i>afval</i><par n="poësie__n__unc"/></e> 
 
@@ -6079,6 +6083,8 @@
 	<e lm="druk"><i>druk</i><par n="dik__adj"/></e>
 	<e lm="swak"><i>swak</i><par n="dik__adj"/></e>
 	<e lm="vorig"><i>vorig</i><par n="dadelik__adj"/></e>
+	<e lm="toenemend"><i>toenemend</i><par n="dadelik__adj"/></e>
+	<e lm="afnemend"><i>afnemend</i><par n="dadelik__adj"/></e>
 	<e lm="groeiend"><i>groeiend</i><par n="dadelik__adj"/></e>
 	<e lm="keiserlik"><i>keiserlik</i><par n="dadelik__adj"/></e>
 	<e lm="hedendaags"><i>hedendaags</i><par n="dadelik__adj"/></e>
@@ -6320,6 +6326,7 @@
     <e lm="opwindend"><i>opwindend</i><par n="maklik__adj"/></e>
     <!--<e lm="oud"><i>oud</i><par n="maklik__adj"/></e>-->
     <e lm="pragtig"><i>pragtig</i><par n="maklik__adj"/></e>
+    <e lm="woestynagtig"><i>woestynagtig</i><par n="maklik__adj"/></e>
     <e lm="rampspoedig"><i>rampspoedig</i><par n="maklik__adj"/></e>
     <e lm="raserig"><i>raserig</i><par n="maklik__adj"/></e>
     <e lm="rats"><i>rats</i><par n="maklik__adj"/></e>
@@ -6779,7 +6786,6 @@
     <e lm="suidwestelik"><i>suidwestelik</i><par n="dadelik__adj"/></e>
 
     <e lm="skoon"><i>skoon</i><par n="swart__adj"/></e>
-    <e lm="toenemend"><i>toenemend</i><par n="swart__adj"/></e>
     <e lm="kontinu"><i>kontinu</i><par n="dadelik__adj"/></e>
 
     <e lm="uitgestrek"><i>uitgestrek</i><par n="sleg__adj"/></e>
@@ -7329,6 +7335,7 @@
 	<e lm="gee"><i>gee</i><par n="breek__vblex"/></e>
 	<e lm="dui"><i>dui</i><par n="breek__vblex"/></e>
 	<e lm="verdeel"><i>verdeel</i><par n="breek__vblex"/></e>
+	<e lm="benadeel"><i>benadeel</i><par n="breek__vblex"/></e>
 	<e lm="stel"><i>stel</i><par n="breek__vblex"/></e>
 	<e lm="dien"><i>dien</i><par n="breek__vblex"/></e>
 	<e lm="wen"><i>wen</i><par n="breek__vblex"/></e>
@@ -7343,6 +7350,7 @@
 	<e lm="gee"><p><l>gegee</l><r>gee</r></p><par n="gebreek__vblex"/></e>
 	<e lm="dui"><p><l>gedui</l><r>dui</r></p><par n="gebreek__vblex"/></e>
 	<e lm="verdeel"><p><l>verdeel</l><r>verdeel</r></p><par n="gebreek__vblex"/></e>
+	<e lm="benadeel"><p><l>benadeel</l><r>benadeel</r></p><par n="gebreek__vblex"/></e>
 	<e lm="stel"><p><l>gestel</l><r>stel</r></p><par n="gebreek__vblex"/></e>
 	<e lm="dien"><p><l>gedien</l><r>dien</r></p><par n="gebreek__vblex"/></e>
 	<e lm="wen"><p><l>gewen</l><r>wen</r></p><par n="gebreek__vblex"/></e>
