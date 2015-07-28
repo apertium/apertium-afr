@@ -1,2 +1,17 @@
 * text=auto !eol
-/apertium-af-nl.af.dix -text
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/INSTALL -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/afr.prob -text svneol=unset#unset
+/apertium-afr.afr.acx -text
+/apertium-afr.afr.dix -text
+/apertium-afr.afr.rlx -text
+/apertium-afr.pc.in -text
+/apertium-afr.post-afr.dix -text
+/autogen.sh -text
+/configure.ac -text
+/modes.xml -text

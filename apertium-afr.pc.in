@@ -1,0 +1,10 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+libdir=@libdir@
+dir=@libdir@/apertium/apertium-afr
+srcdir=@datarootdir@/apertium/apertium-afr
+
+Name: apertium-afr
+Description: Finite-state morphological transducer and constraint grammar for Afrikaans 
+Version: @VERSION@
+
