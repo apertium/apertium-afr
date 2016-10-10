@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modes>
 
-  <mode name="afr-morph">
+  <mode name="afr-morph" install="yes">
     <pipeline>
       <program name="lt-proc -w">
         <file name="afr.automorf.bin"/>
@@ -9,7 +9,7 @@
     </pipeline>
   </mode>
 
-  <mode name="afr-gener">
+  <mode name="afr-gener" install="yes">
     <pipeline>
       <program name="lt-proc -g">
         <file name="afr.autogen.bin"/>
@@ -17,7 +17,7 @@
     </pipeline>
   </mode>
 
-  <mode name="afr-tagger">
+  <mode name="afr-tagger" install="yes">
     <pipeline>
       <program name="lt-proc -w">
         <file name="afr.automorf.bin"/>
@@ -28,7 +28,7 @@
     </pipeline>
   </mode>
 
-  <mode name="afr-disam">
+  <mode name="afr-disam" install="yes">
     <pipeline>
       <program name="lt-proc -w">
         <file name="afr.automorf.bin"/>
