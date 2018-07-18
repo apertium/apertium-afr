@@ -619,7 +619,7 @@
     <pardef n="wy/d__adj">
       <e>       <p><l>d</l><r>d<s n="adj"/><s n="pred"/></r></p></e>
       <e>       <p><l>ds</l><r>d<s n="adj"/><s n="part"/></r></p></e>
-      <e>       <p><l>e</l><r>e<s n="adj"/><s n="attr"/></r></p></e>
+      <e>       <p><l>e</l><r>d<s n="adj"/><s n="attr"/></r></p></e>
     </pardef>
 
     <pardef n="bre/ed__adj">
@@ -1635,6 +1635,7 @@
     <e lm="sodat"><i>sodat</i><par n="want__cnjadv"/></e>
     <e lm="na"><i>na</i><par n="want__cnjadv"/></e>
     <e lm="ná"><i>ná</i><par n="want__cnjadv"/></e>
+    <e lm="dan"><i>dan</i><par n="want__cnjadv"/></e>
 
     <e lm="hoewel"><i>hoewel</i><par n="want__cnjadv"/></e>
     <e lm="tensy"><i>tensy</i><par n="want__cnjadv"/></e>
@@ -6559,6 +6560,7 @@
     <e lm="Engels"><i>Engels</i><par n="dadelik__adj"/></e>
     <e lm="Europees"><i>Europe</i><par n="europe/es__adj"/></e>
     <e lm="Sjinees"><i>Sjine</i><par n="europe/es__adj"/></e>
+    <e lm="Chinees"><i>Chine</i><par n="europe/es__adj"/></e>
     <e lm="Japannees"><i>Japanne</i><par n="europe/es__adj"/></e>
     <e lm="Indo-Europees"><i>Indo-Europe</i><par n="europe/es__adj"/></e>
     <e lm="Grieks"><i>Griekse</i><par n="dadelik__adj"/></e>
@@ -6920,6 +6922,7 @@
     <e lm="gerenoveer"><i>gerenoveer</i><par n="vermoor__adj"/></e>
     <e lm="gereorganiseer"><i>gereorganiseer</i><par n="vermoor__adj"/></e>
     <e lm="gerepatrieer"><i>gerepatrieer</i><par n="vermoor__adj"/></e>
+    <e lm="gereproduseer"><i>gereproduseer</i><par n="vermoor__adj"/></e>
     <e lm="gereserveer"><i>gereserveer</i><par n="vermoor__adj"/></e>
     <e lm="gerespekteer"><i>gerespekteer</i><par n="vermoor__adj"/></e>
     <e lm="gerestoureer"><i>gerestoureer</i><par n="vermoor__adj"/></e>
@@ -7149,7 +7152,7 @@
 
     <e lm="beperk"><i>beperk</i><par n="sleg__adj"/></e><!-- limited :: CHECK -->
 
-
+    <e lm="eg"><i>eg</i><par n="sleg__adj"/></e><!-- real :: CHECK -->
 
 
     <!-- Crazy irregular adjectives with their own paradigms -->
