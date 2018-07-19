@@ -3992,6 +3992,7 @@
     <e lm="uitlating"><i>uitlating</i><par n="artikel__n"/></e>
     <e lm="geneesmiddel"><i>geneesmiddel</i><par n="artikel__n"/></e>
     <e lm="status"><i>status</i><par n="abakus__n"/></e>
+    <e lm="kaktus"><i>kaktus</i><par n="abakus__n"/></e>
     <e lm="onderwys"><i>onderwys</i><par n="poësie__n__unc"/></e>
     <e lm="tirannie"><i>tirannie</i><par n="aalwyn__n"/></e>
     <e lm="stryd"><i>stryd</i><par n="bier__n"/></e>
@@ -4033,6 +4034,7 @@
     <e lm="kookkuns"><i>kookkuns</i><par n="lys__n"/></e>
     <e lm="kunstenaar"><i>kunstenaar</i><par n="artikel__n"/></e>
     <e lm="toevlugsoord"><i>toevlugsoord</i><par n="bier__n"/></e>
+    <e lm="ontspanningsoord"><i>ontspanningsoord</i><par n="bier__n"/></e>
     <e lm="tante"><i>tante</i><par n="artikel__n"/></e>
     <e lm="gesag"><i>gesag</i><par n="poësie__n__unc"/></e>
     <e lm="herfs"><i>herfs</i><par n="bier__n"/></e>
@@ -4580,6 +4582,7 @@
     <e lm="geheel"><i>gehe</i><par n="voorde/el__n"/></e>
     <e lm="hout"><i>hout</i><par n="poësie__n__unc"/></e>
     <e lm="treffer"><i>treffer</i><par n="artikel__n"/></e>
+    <e lm="duikdiensverskaffer"><i>duikdiensverskaffer</i><par n="artikel__n"/></e>
     <e lm="eer"><i>eer</i><par n="poësie__n__unc"/></e>
     <e lm="voorkoms"><i>voorkoms</i><par n="lys__n"/></e>
     <e lm="geraas"><i>geraas</i><par n="poësie__n__unc"/></e>
@@ -5854,6 +5857,7 @@
     <e lm="kuierplek"><i>kuierplek</i><par n="ongeluk__n"/></e>
     <e lm="parkeerplek"><i>parkeerplek</i><par n="ongeluk__n"/></e>
     <e lm="plek"><i>plek</i><par n="ongeluk__n"/></e>
+    <e lm="nesplek"><i>nesplek</i><par n="ongeluk__n"/></e>
     <e lm="rusplek"><i>rusplek</i><par n="ongeluk__n"/></e>
     <e lm="sitplek"><i>sitplek</i><par n="ongeluk__n"/></e>
     <e lm="skuilplek"><i>skuilplek</i><par n="ongeluk__n"/></e>
