@@ -2297,7 +2297,8 @@
     <e lm="uitkenning"><i>uitkenning</i><par n="artikel__n"/></e>
     <e lm="kader"><i>kader</i><par n="artikel__n"/></e>
     <e lm="guerrilla"><i>guerrilla</i><par n="aalwyn__n"/></e>
-    <e lm="lig"><i>lig</i><par n="artikel__n"/></e><!-- check this -->
+<!--    <e lm="lig"><i>lig</i><par n="artikel__n"/></e>--><!-- check this -->
+    <e lm="lig"><i>lig</i><par n="lys__n"/></e>
     <e lm="opsie"><i>opsie</i><par n="artikel__n"/></e>
     <e lm="versetbeweging"><i>versetbeweging</i><par n="artikel__n"/></e>
     <e lm="stigter"><i>stigter</i><par n="artikel__n"/></e>
