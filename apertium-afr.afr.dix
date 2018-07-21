@@ -1301,6 +1301,7 @@
 	<e lm="self"><i>self</i><par n="self__prn"/></e>
 	<e lm="sigself"><i>sigself</i><par n="self__prn"/></e>
 	<e lm="sig"><i>sig</i><par n="self__prn"/></e>
+	<e lm="hom"><i>hom</i><par n="self__prn"/></e>
 	<e lm="beide"><i>beide</i><par n="altwee__prn"/></e>
 	<e lm="men"><i>men</i><par n="altwee__prn"/></e>
 	<e lm="ander"><i>ander</i><par n="die_ander__prn"/></e>
