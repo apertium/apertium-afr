@@ -2,8 +2,6 @@
 ## Makefile for apertium-afr
 ###############################################################################
 
-RELEASE=0.1
-VERSION=0.1.0
 LANG1=afr
 BASENAME=apertium-$(LANG1)
 
@@ -43,8 +41,8 @@ $(LANG1).autopgen.bin: $(BASENAME).post-$(LANG1).dix
 ## Disambiguation rules
 ###############################################################################
 
-$(LANG1).rlx.bin: $(BASENAME).$(LANG1).rlx $(CGCOMP)
-	$(CGCOMP) $< $@
+$(LANG1).rlx.bin: $(BASENAME).$(LANG1).rlx
+	cg-comp $< $@
 
 ###############################################################################
 ## Distribution
@@ -98,4 +96,3 @@ test: all
 	@echo "TODO test analysis results" > .test-ref
 	@diff .test-ref .test-mt
 	@rm .test-ref .test-mt
-
