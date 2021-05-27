@@ -1,6 +1,6 @@
 AC_PREREQ(2.52)
 
-AC_INIT([Apertium Afrikaans], [0.2.0], [apertium-stuff@lists.sourceforge.net], [apertium-afr], [http://wiki.apertium.org/wiki/Apertium-afr])
+AC_INIT([Apertium Afrikaans], [0.2.0], [apertium-stuff@lists.sourceforge.net], [apertium-afr], [https://wiki.apertium.org/wiki/Apertium-afr])
 AM_INIT_AUTOMAKE
 
 AC_PROG_AWK
