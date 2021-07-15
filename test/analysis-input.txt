@@ -1,0 +1,6 @@
+# from https://wiki.apertium.org/wiki/Afrikaans_and_Dutch/Pending_tests
+Sal jy dit versterk?
+Verbind asseblief die kabels.
+Ek het die kabels verbind.
+Sy werk.
+Ek is aan die werk.

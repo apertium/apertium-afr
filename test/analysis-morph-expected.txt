@@ -1,0 +1,10 @@
+[8zgVCe7MAHX-#0] ^Verbind/verbind<vblex><inf>/verbind<vblex><pres>/verbind<vblex><pp>$ ^asseblief/asseblief<adv>$ ^die/die<det><def><sp>$ ^kabels/kabel<n><pl>/kabel<n><pl><compound-R>/kabel<n><sg><cmp><compound-only-L>$^./.<sent>$
+[/8zgVCe7MAHX-]
+[R9u5IlO6muwf#0] ^Sal/sal<vaux><inf>/sal<vaux><pres>$ ^jy/prpers<prn><subj><p2><mf><sg>$ ^dit/dit<det><dem><sp>/dit<prn><dem><sp>/prpers<prn><subj><p3><nt><sg>/prpers<prn><obj><p3><nt><sg>$ ^versterk/versterk<vblex><inf>/versterk<vblex><pres>/versterk<vblex><pp>$^?/?<sent>$
+[/R9u5IlO6muwf]
+[Y9pGOS9q4eWt#0] ^Ek/prpers<prn><subj><p1><mf><sg>$ ^het/hê<vbhaver><pres>$ ^die/die<det><def><sp>$ ^kabels/kabel<n><pl>/kabel<n><pl><compound-R>/kabel<n><sg><cmp><compound-only-L>$ ^verbind/verbind<vblex><inf>/verbind<vblex><pres>/verbind<vblex><pp>$^./.<sent>$
+[/Y9pGOS9q4eWt]
+[a7gttX-G9N8D#0] ^Ek/prpers<prn><subj><p1><mf><sg>$ ^is/wees<vbser><pres>$ ^aan/aan<adv>/aan<pr>$ ^die/die<det><def><sp>$ ^werk/werk<n><sg>/werk<vblex><inf>/werk<vblex><pres>/werk<n><sg><cmp><compound-only-L>$^./.<sent>$
+[/a7gttX-G9N8D]
+[aiEcaKy-7sAx#0] ^Sy/sy<det><pos><sp>/prpers<prn><subj><p3><f><sg>$ ^werk/werk<n><sg>/werk<vblex><inf>/werk<vblex><pres>/werk<n><sg><cmp><compound-only-L>$^./.<sent>$
+[/aiEcaKy-7sAx]
